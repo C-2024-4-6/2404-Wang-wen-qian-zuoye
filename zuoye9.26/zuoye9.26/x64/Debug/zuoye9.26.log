@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\文档\C++\zuoye9.26\zuoye9.26\FileName.cpp(39,9): warning C4305: “初始化”: 从“int”到“char”截断
+D:\文档\C++\zuoye9.26\zuoye9.26\FileName.cpp(39,11): warning C4309: “初始化”: 截断常量值
+  zuoye9.26.vcxproj -> D:\文档\C++\zuoye9.26\x64\Debug\zuoye9.26.exe
