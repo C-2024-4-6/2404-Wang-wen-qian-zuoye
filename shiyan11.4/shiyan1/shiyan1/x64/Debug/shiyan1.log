@@ -1,0 +1,3 @@
+﻿  num4.cpp
+D:\文档\C++\作业\shiyan11.4\shiyan1\shiyan1\num4.cpp(14,10): warning C4305: “初始化”: 从“double”到“float”截断
+  shiyan1.vcxproj -> D:\文档\C++\作业\shiyan11.4\shiyan1\x64\Debug\shiyan1.exe
