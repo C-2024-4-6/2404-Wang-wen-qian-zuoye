@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan second 11.25\\shiyan4.7zhizhen1(2)-(4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4892DF29-9E94-4EA3-AF7B-5FD11F25A330}|shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4).vcxproj|D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan second 11.25\\shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4)\\f4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4892DF29-9E94-4EA3-AF7B-5FD11F25A330}|shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4).vcxproj|solutionrelative:shiyan4.7zhizhen1(2)-(4)\\f4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4892DF29-9E94-4EA3-AF7B-5FD11F25A330}|shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4).vcxproj|D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan second 11.25\\shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4)\\f3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4892DF29-9E94-4EA3-AF7B-5FD11F25A330}|shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4).vcxproj|solutionrelative:shiyan4.7zhizhen1(2)-(4)\\f3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4892DF29-9E94-4EA3-AF7B-5FD11F25A330}|shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4).vcxproj|D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan second 11.25\\shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4)\\f2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4892DF29-9E94-4EA3-AF7B-5FD11F25A330}|shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4).vcxproj|solutionrelative:shiyan4.7zhizhen1(2)-(4)\\f2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "f4.cpp",
+              "DocumentMoniker": "D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan second 11.25\\shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4)\\f4.cpp",
+              "RelativeDocumentMoniker": "shiyan4.7zhizhen1(2)-(4)\\f4.cpp",
+              "ToolTip": "D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan second 11.25\\shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4)\\f4.cpp*",
+              "RelativeToolTip": "shiyan4.7zhizhen1(2)-(4)\\f4.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T09:07:03.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "f3.cpp",
+              "DocumentMoniker": "D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan second 11.25\\shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4)\\f3.cpp",
+              "RelativeDocumentMoniker": "shiyan4.7zhizhen1(2)-(4)\\f3.cpp",
+              "ToolTip": "D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan second 11.25\\shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4)\\f3.cpp",
+              "RelativeToolTip": "shiyan4.7zhizhen1(2)-(4)\\f3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T09:01:37.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "f2.cpp",
+              "DocumentMoniker": "D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan second 11.25\\shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4)\\f2.cpp",
+              "RelativeDocumentMoniker": "shiyan4.7zhizhen1(2)-(4)\\f2.cpp",
+              "ToolTip": "D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan second 11.25\\shiyan4.7zhizhen1(2)-(4)\\shiyan4.7zhizhen1(2)-(4)\\f2.cpp",
+              "RelativeToolTip": "shiyan4.7zhizhen1(2)-(4)\\f2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T08:43:03.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

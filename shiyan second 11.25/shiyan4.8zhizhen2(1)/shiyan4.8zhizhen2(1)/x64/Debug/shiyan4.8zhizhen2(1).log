@@ -1,0 +1,4 @@
+﻿  g1.cpp
+D:\文档\学业\C++\作业\shiyan second 11.25\shiyan4.8zhizhen2(1)\shiyan4.8zhizhen2(1)\g1.cpp(5,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文档\学业\C++\作业\shiyan second 11.25\shiyan4.8zhizhen2(1)\shiyan4.8zhizhen2(1)\g1.cpp(6,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  shiyan4.8zhizhen2(1).vcxproj -> D:\文档\学业\C++\作业\shiyan second 11.25\shiyan4.8zhizhen2(1)\x64\Debug\shiyan4.8zhizhen2(1).exe
