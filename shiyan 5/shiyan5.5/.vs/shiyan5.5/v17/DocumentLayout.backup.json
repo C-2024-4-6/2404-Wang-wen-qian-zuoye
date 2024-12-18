@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan 5\\shiyan5.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5800A8FB-6EAB-4F1A-B93D-F80C3EFBCB1A}|shiyan5.5\\shiyan5.5.vcxproj|D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan 5\\shiyan5.5\\shiyan5.5\\e5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5800A8FB-6EAB-4F1A-B93D-F80C3EFBCB1A}|shiyan5.5\\shiyan5.5.vcxproj|solutionrelative:shiyan5.5\\e5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "e5.5.cpp",
+              "DocumentMoniker": "D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan 5\\shiyan5.5\\shiyan5.5\\e5.5.cpp",
+              "RelativeDocumentMoniker": "shiyan5.5\\e5.5.cpp",
+              "ToolTip": "D:\\\u6587\u6863\\\u5B66\u4E1A\\C\u002B\u002B\\\u4F5C\u4E1A\\shiyan 5\\shiyan5.5\\shiyan5.5\\e5.5.cpp*",
+              "RelativeToolTip": "shiyan5.5\\e5.5.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T13:00:11.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
